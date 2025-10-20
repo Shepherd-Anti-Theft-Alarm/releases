@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Shepherd</title>
+        <item>
+            <title>0.9</title>
+            <pubDate>Mon, 20 Oct 2025 06:14:38 +0200</pubDate>
+            <sparkle:version>0.9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/isiktantanis/shepherd-releases/releases/download/prod/Shepherd.Anti-Theft.Alarm.0.9.dmg" length="18367416" type="application/octet-stream" sparkle:edSignature="nTzKgYCfDLwYZ7qyuQqgGWb+nE7JaFR2DDj5pRWlb6IhHtEwF2/dJ43k/KV0st4RFApY73b701qupcjyedw5Cw=="/>
+        </item>
+    </channel>
+</rss>
