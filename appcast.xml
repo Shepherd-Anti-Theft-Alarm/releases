@@ -3,12 +3,12 @@
     <channel>
         <title>Shepherd</title>
         <item>
-            <title>1.21</title>
-            <pubDate>Mon, 20 Oct 2025 16:54:44 +0200</pubDate>
-            <sparkle:version>1.2</sparkle:version>
-            <sparkle:shortVersionString>1.21</sparkle:shortVersionString>
+            <title>1.23</title>
+            <pubDate>Wed, 29 Oct 2025 02:58:57 +0000</pubDate>
+            <sparkle:version>1.23</sparkle:version>
+            <sparkle:shortVersionString>1.23</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/isiktantanis/shepherd-releases/releases/download/v1.21/Shepherd.Anti-Theft.Alarm.1.21.dmg" length="18407844" type="application/octet-stream" sparkle:edSignature="w+S541zxTHkUQheK+pAeke6Es3sx/zDNIHJna2mOdx4uUNHABDGVSq8oq8VhV54JpxcaQkL5Plu6xznvt2P3BQ=="/>
+            <enclosure url="https://github.com/Shepherd-Anti-Theft-Alarm/releases/releases/download/v1.23/Shepherd.Anti-Theft.Alarm.1.23.dmg" length="13350745" type="application/octet-stream" sparkle:edSignature="4RS2icVOJh4CR9+c2j8g1jivN+IwhOcFvB6Ejd+IEh1prh0tTBNvkRyssA8D7w74QVBa+RGC5qZWook8ONGKDw=="/>
         </item>
     </channel>
 </rss>
