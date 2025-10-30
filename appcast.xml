@@ -4,11 +4,11 @@
         <title>Shepherd</title>
         <item>
             <title>0.9</title>
-            <pubDate>Wed, 29 Oct 2025 21:32:39 +0000</pubDate>
+            <pubDate>Thu, 30 Oct 2025 01:19:31 +0000</pubDate>
             <sparkle:version>0.9</sparkle:version>
             <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Shepherd-Anti-Theft-Alarm/releases/releases/download/v0.9/Shepherd.Anti-Theft.Alarm.0.9.dmg" length="13519252" type="application/octet-stream" sparkle:edSignature="t5b1/V4le6S/iadKg8pbx61nJgQJvuafZo+0I97GSNlksLz54EiRH2aDaTPK6Hh0HOZtZz9aGo+uULJD+Y12DA=="/>
+            <enclosure url="https://github.com/Shepherd-Anti-Theft-Alarm/releases/releases/download/v0.9/Shepherd.Anti-Theft.Alarm.0.9.dmg" length="13553417" type="application/octet-stream" sparkle:edSignature="9HykK3iEPqrgL4ddHtkvmtt2ZL4iY9yNxEIVAOLZXNp1wCjomUjDIvD4EnH0O9aUph8lk1mpu8JJ4gpw8XSYCQ=="/>
         </item>
     </channel>
 </rss>
